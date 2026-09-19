@@ -1,0 +1,71 @@
+[
+   {
+    "id": 1,
+    "nome": "Parafusadeira Furadeira 48V Íon-Lítio Sem Fio, 2 Baterias, Maleta e Kit de Acessórios",
+    "descricao": "2 baterias 48V, maleta resistente, kit de soquetes, brocas e bits, luz LED auxiliar",
+    "categoria": "Ferramentas",
+    "preco": "R$ 99,93",
+    "precoOriginal": "",
+    "desconto": "",
+    "avaliacao": 4.9,
+    "numAvaliacoes": 0,
+    "imagem": "img/produto-parafusadeira.jpg",
+    "linkAfiliado": "https://s.shopee.com.br/6Al8NwMyJN"
+  },
+  {
+    "id": 2,
+    "nome": "Fone de Ouvido Sem Fio com Cancelamento de Ruído Bluetooth Pop-Up",
+    "descricao": "Estojo compacto, abertura pop-up, sincronização rápida via Bluetooth",
+    "categoria": "Eletrônicos",
+    "preco": "R$ 42,89",
+    "precoOriginal": "",
+    "desconto": "",
+    "avaliacao": 4.8,
+    "numAvaliacoes": 0,
+    "imagem": "img/produto-fone.jpg",
+    "linkAfiliado": "https://s.shopee.com.br/30o6b7tfjK"
+ 
+  },
+  {
+   
+        
+    "id": 3,
+    "nome": "Conjunto de Frio Feminino Inverno Moletom Malha Crepe com Capuz",
+    "descricao": "Blusa e calça em malha crepe, forro felpudo, capuz e cordão ajustável",
+    "categoria": "Moda",
+    "preco": "R$ 52,98",
+    "precoOriginal": "",
+    "desconto": "",
+    "avaliacao": 4.6,
+    "numAvaliacoes": 0,
+    "imagem": "img/produto-moletom.jpg",
+    "linkAfiliado": "https://s.shopee.com.br/6VNynwHlFr"
+  
+  },
+{
+    "id": 4,
+    "nome": "Patinete Elétrico com Banco Dobrável 350W",
+    "descricao": "Autonomia de 35km, velocidade até 30km/h, banco removível, suporta até 150kg",
+    "categoria": "Mobilidade",
+    "preco": "R$ 1.100,00",
+    "precoOriginal": "",
+    "desconto": "",
+    "avaliacao": 4.8,
+    "numAvaliacoes": 0,
+    "imagem": "img/produto-patinete.jpg",
+    "linkAfiliado": "https://s.shopee.com.br/BTvH7uT5v"
+  },
+{
+    "id": 5,
+    "nome": "Kit Whey Concentrado 1kg + Creatina Ultra Monohidratada 300g - FTW",
+    "descricao": "Whey sabor morango com 15g de proteína e 6,1g de EAA, creatina monohidratada sabor neutro",
+    "categoria": "Suplementos",
+    "preco": "R$ 99,90",
+    "precoOriginal": "",
+    "desconto": "",
+    "avaliacao": 4.9,
+    "numAvaliacoes": 0,
+    "imagem": "img/produto-whey.jpg",
+    "linkAfiliado": "https://s.shopee.com.br/1Lfsg7Lt3W"
+  }
+]

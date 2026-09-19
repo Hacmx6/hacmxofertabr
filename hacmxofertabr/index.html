@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HacmxOfertaBR — Achadinhos selecionados</title>
+<meta name="description" content="Achadinhos e ofertas selecionadas todos os dias. Curadoria real, sem enrolação.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a href="#" class="wordmark" aria-label="HacmxOfertaBR - página inicial">
+      <span class="wordmark-mark">Hacmx</span><span class="wordmark-rest">OfertaBR</span>
+    </a>
+    <p class="header-tagline">achadinhos com curadoria real</p>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap hero-inner">
+    <div class="hero-copy">
+      <h1>Achado bom não é sorte.<br>É curadoria.</h1>
+      <p class="hero-lede">Todo produto aqui passou por três filtros: avaliação alta, muita gente já comprou e dá pra mostrar funcionando em vídeo. O resto a gente descarta.</p>
+      <a href="#produtos" class="btn-primary">Ver ofertas de hoje</a>
+    </div>
+    <div class="hero-tag" aria-hidden="true">
+      <div class="price-tag-big">
+        <span class="tag-off">-42%</span>
+        <span class="tag-label">média de desconto<br>nos achados da semana</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<main>
+  <section id="produtos" class="produtos-section">
+    <div class="wrap">
+      <div class="produtos-header">
+        <h2>Ofertas de hoje</h2>
+        <div class="filtros" id="filtros" role="group" aria-label="Filtrar por categoria">
+          <button class="filtro-pill is-active" data-categoria="todas">Todas</button>
+        </div>
+      </div>
+
+      <div class="produtos-grid" id="produtos-grid">
+        <p class="produtos-loading">Carregando ofertas...</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <p class="disclosure">Este site participa de programas de afiliados. Ao clicar em "ver oferta" e comprar, podemos receber uma comissão — sem custo adicional pra você. Preços e disponibilidade podem mudar; confira sempre no site do vendedor antes de finalizar a compra.</p>
+    <p class="footer-meta">HacmxOfertaBR © 2026</p>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
